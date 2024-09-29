@@ -1,14 +1,14 @@
 # 👨‍🚀 **Welcome to the SciQuestioneer’s Lab!**  
 
-
 Let’s hurry! I’m **Valen**, aka **SciQuestioneer**,  the girl who asks too many questions, but hey, it's how we discover new things, right?
----
 
 
-### 🧑‍🔬 **A Brief Journey:**
+###  **A Brief Journey:**
 I started my scientific journey at the **University**, but let’s be honest—I enrolled in a lab *before* officially enrolling in school! What can I say? Life's too short, and curiosity can’t wait! Then, as the world shut down during COVID, with a friend, I built **APISI**, a sEMG device that detects muscle activity. What began as a fun Arduino experiment spiraled into a full-on exploration of ⚡coding, ⚡data science, and ⚡Machine learning.
 
+
 ---
+
 
 ### ⚡ **Current Powers:**
 
@@ -24,17 +24,9 @@ I started my scientific journey at the **University**, but let’s be honest—I
 
 ---
 
+
 ### 🚀 **Ongoing Adventures:**
-- **APISI**: Continuing to evolve this device and platform with real-time muscle activity detection and data integration.
-
-### 🏁 **Adventures:**
-- **Railway Anomaly Detection**: Optimizing the GUI and detection algorithms for improving segmentation processes on Medellin’s metro system.
-- **Thermodynamic Modeling**: Working on the modeling of a 6-combustion engine with water injection (yep, I get nerdy about engines too).
-
-
----
-### 🌍🥑 **Curiosity & Code:**
-If you know me, you'll know that no question is too small, no problem too big. Whether it's learning about history, building a new platform, or asking "What if?", I’m the girl who will dive into it with enthusiasm. And oh, if we’re visiting a new city together, be ready—I’ll be your personal **history guide**, sharing all the fun facts and mythology along the way.
+- **APISI**: Continuing to evolve this device and platform with real-time bio-signals activity detection and data integration.
 
 ---
 
